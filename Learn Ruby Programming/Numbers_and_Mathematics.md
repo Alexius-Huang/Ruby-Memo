@@ -1,6 +1,6 @@
 # Numbers and Mathematics
 
-## An Overview of Numbers in Ruby Lang
+## An Overview of Ruby Numbers
 
 In most programming languages, number is a fundamental type of the data. You can open `irb` (interactive Ruby) and try few lines to play around with Ruby numbers :
 

@@ -12,8 +12,8 @@ My Ruby programming language learning notes. This README page includes the topic
   - [**Ruby and RVM Installation**](https://github.com/Maxwell-Alexius/Ruby-Memo/blob/master/Learn%20Ruby%20Programming/Ruby_and_RVM_Installation.md)
   - Overview with Interactive Ruby
   - Common Data Type
-    - Numbers and Mathematics
-    - String / Symbol
+    - [**Numbers and Mathematics**](https://github.com/Maxwell-Alexius/Ruby-Memo/blob/master/Learn%20Ruby%20Programming/Numbers_and_Mathematics.md)
+    - [**String and Symbol**](https://github.com/Maxwell-Alexius/Ruby-Memo/blob/master/Learn%20Ruby%20Programming/String_and_Symbol.md)
     - Boolean (TrueClass / FalseClass)
     - Array
     - Hash
@@ -22,17 +22,17 @@ My Ruby programming language learning notes. This README page includes the topic
     - Nil (Nilclass)
   - Programming in Ruby
     - Conditional Statement
-      - if...elsif...else...
-      - unless
-      - case...when...then...
+      - `if...elsif...else...`
+      - `unless`
+      - `case...when...then...`
     - Looping Statement
-      - for...in...
-      - while...
-      - until...
-      - Array#each, Hash#each_pair, Hash#each_key, Hash#each_value
-      - Array#map, Array#filter, Array#reduce
-      - Integer#times, Integer#upto, Integer#downto
-      - Date#upto, Date#downto
+      - `for...in...`
+      - `while...`
+      - `until...`
+      - `each` Method Series
+      - Useful Integer Methods
+      - Useful Array Methods
+      - Looping Date
     - Methods and Blocks
   - Object Oriented Programming
     - Class and Object
