@@ -1,6 +1,6 @@
 # Ruby and RVM Installation
 
-## Install Ruby
+## Install Ruby
 
 There are different ways to install Ruby in different OS. For more information, please go to the [official website](https://www.ruby-lang.org/en/documentation/installation/).
 

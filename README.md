@@ -1,4 +1,4 @@
-# Ruby Path by Maxwell Alexius
+# Ruby Memo by Maxwell Alexius
 
 ## Main Topics
 
@@ -9,10 +9,10 @@ My Ruby programming language learning notes. This README page includes the topic
   - Core Concept of Ruby
 
 - Learn Ruby Programming (using Ruby version 2.4.1)
-  - Ruby and RVM Installation
+  - [**Ruby and RVM Installation**](https://github.com/Maxwell-Alexius/Ruby-Memo/blob/master/Learn%20Ruby%20Programming/Ruby_and_RVM_Installation.md)
   - Overview with Interactive Ruby
   - Common Data Type
-    - Integer / Fixnum(deprecated in Ruby 2.4)
+    - Numbers and Mathematics
     - String / Symbol
     - Boolean (TrueClass / FalseClass)
     - Array
@@ -21,10 +21,6 @@ My Ruby programming language learning notes. This README page includes the topic
     - Time / Date / DateTime
     - Nil (Nilclass)
   - Programming in Ruby
-    - Arithmatic Expression
-      - Operator Precedence
-    - Logical Expression
-      - AND / OR / NOT
     - Conditional Statement
       - if...elsif...else...
       - unless
