@@ -14,7 +14,7 @@ My Ruby programming language learning notes. This README page includes the topic
   - Common Data Type
     - [**Numbers and Mathematics**](https://github.com/Maxwell-Alexius/Ruby-Memo/blob/master/Learn%20Ruby%20Programming/Numbers_and_Mathematics.md)
     - [**String and Symbol**](https://github.com/Maxwell-Alexius/Ruby-Memo/blob/master/Learn%20Ruby%20Programming/String_and_Symbol.md)
-    - Boolean (TrueClass / FalseClass)
+    - [**Boolean**](https://github.com/Maxwell-Alexius/Ruby-Memo/blob/master/Learn%20Ruby%20Programming/Boolean.md)
     - Array
     - Hash
     - Range (* Splat Operator)
